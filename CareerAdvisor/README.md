@@ -10,7 +10,7 @@ To install CareerAdvisor, follow these steps:
 
 * Clone the repository:
 ```bash
-git clone [<repository_url>](https://github.com/sriku2412/dataraction_project/edit/main/CareerAdvisor)
+git clone github.com/sriku2412/dataraction_project/edit/main/CareerAdvisor 
 ```
 
 * Create and activate a virtual environment:
